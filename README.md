@@ -1,0 +1,2 @@
+# Basic_Genetic_Algorithm
+一个给基因遗传算法写的东西
